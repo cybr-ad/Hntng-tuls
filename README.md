@@ -1,4 +1,4 @@
-# 🎯 Bug Bounty Toolkit (`bug-tools`)
+# 🎯 Bug Bounty Toolkit (`hun8g-tul`)
 
 [![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Debian](https://img.shields.io/badge/Debian-Supported-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
@@ -89,8 +89,8 @@ The installer executes through 9 structured milestones:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/cybr-ad/bug-tools.git
-cd bug-tools
+git clone https://github.com/cybr-ad/hun8g-tul.git
+cd hun8g-tul
 ```
 
 #### 2. Configure Your API Keys (Optional but Recommended)
